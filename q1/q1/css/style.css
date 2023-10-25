@@ -1,2 +1,17 @@
 @charset "UTF-8";
 /* 回答はここから */
+.inline--box {
+  width: 200px;
+  padding: 20px 0;
+  background: #fff;
+}
+
+.align--box {
+  text-align: center;
+  background: #a4b3e9;
+}
+
+.align--text {
+  padding: 10px;
+  text-align: center;
+}
