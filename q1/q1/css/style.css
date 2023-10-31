@@ -24,3 +24,12 @@
   padding: 10px;
   background: #a4b3e9;
 }
+
+.table {
+  display: table;
+}
+
+.table > .table--text {
+display: table-cell;
+text-align: center;
+}
