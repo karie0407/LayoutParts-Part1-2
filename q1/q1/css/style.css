@@ -41,3 +41,14 @@ vertical-align: middle;
   background: #fff;
   font-size: 16px;
 }
+
+.flex {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  padding: 10px;
+}
+
+.flex--text {
+  text-align: center;
+}
