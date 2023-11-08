@@ -45,10 +45,11 @@ vertical-align: middle;
 .flex {
   display: flex;
   align-items: center;
-  background-color: #fff;
-  padding: 10px;
+  justify-content: center;
 }
 
 .flex--text {
-  text-align: center;
+  padding: 10px;
+  background-color: #fff;
+  font-size: 16px;
 }
