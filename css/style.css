@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* 回答はここから */
+.list {
+  display: flex;
+  outline: 10px solid #665;
+  box-shadow: 0 0 0 6px #665;
+  border-radius: 13px;
+  background: #d2b48c;
+}
