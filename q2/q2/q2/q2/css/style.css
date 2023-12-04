@@ -9,6 +9,7 @@
   background: #d2b48c;
   width: 200px;
   margin: 60px;
+  justify-content: space-around;
 }
 
 .text {
