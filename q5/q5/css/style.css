@@ -111,5 +111,6 @@
   background: #0bdd00;
 }
 .yellow--box {
+grid-column: 2/4;
   background: #d9dd00;
 }
