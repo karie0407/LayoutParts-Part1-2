@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-.cell-table {
+.cell--table {
   table-layout: fixed;
   width: 100%;
 }
@@ -30,6 +30,6 @@
 .cell--table tr:nth-child(even) {
   background: #bcbcbc;
 }
-.cell--table tbody :last-child {
-  border-top: 1px double #ffffff;
+.cell--table tbody tr:last-child {
+  border-top: 1px double rgb(255,255,255);
 }
