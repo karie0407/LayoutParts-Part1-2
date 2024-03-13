@@ -30,3 +30,6 @@
 .cell--table tr:nth-child(even) {
   background: #bcbcbc;
 }
+.cell--table tbody :last-child {
+  border-top: 1px double #ffffff;
+}
