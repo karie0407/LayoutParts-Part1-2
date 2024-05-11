@@ -4,6 +4,7 @@
 .list {
   display: flex;
   justify-content: center;
+  margin: 60px 0;
 }
 
 .text {
@@ -13,7 +14,7 @@
   border-radius: 13px;
   background: #d2b48c;
   width: 200px;
-  margin: 60px;
+  margin-right: 60px;
   padding: 10px;
   list-style: none;
 }
