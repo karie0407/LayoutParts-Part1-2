@@ -17,3 +17,7 @@
   padding: 10px;
   list-style: none;
 }
+
+.text:last-child {
+  margin-right: 0;
+}
